@@ -291,4 +291,5 @@ func calc2() {
 			break
 		}
 	}
+	fmt.Println("dawd")
 }
